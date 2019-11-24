@@ -13,7 +13,7 @@ Today I Thought.
 - [2019/11/sit_walk_suwaru_aruku_idea.md.md 座って文章書いてるだけだと創造性がしょぼい件](2019/11/sit_walk_suwaru_aruku_idea.md.md)
 - [2019/11/stress_company_and_home_diff.md.md 会社と自宅とでストレスが全然違う](2019/11/stress_company_and_home_diff.md.md)
 - [2019/11/tanosisa_kairaku.md 楽しさと快楽の混同](2019/11/tanosisa_kairaku.md)
-- [2019/11/tansaku.md.md 探策＝探検＋散策](2019/11/tansaku.md.md)
+- [2019/11/tansaku.md 探策＝探検＋散策](2019/11/tansaku.md)
 
 ## License
 - ソースコードは [MIT](LICENSE)
