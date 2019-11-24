@@ -1,8 +1,8 @@
 # tit
 Today I Thought.
 
-- ★ghpages のリンク張る
-- ★検索ページのリンク張る
-- ★find fileのリンク張る
+- [GitHub Pages](https://stakiran.github.io/tit/)
+- Find > [Find Files](https://github.com/stakiran/tit/find/master)
+- Find > [Repo Search](https://github.com/stakiran/tit/search?q=query)
 
 ## 目次
