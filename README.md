@@ -6,6 +6,7 @@ Today I Thought.
 - Find > [Repo Search](https://github.com/stakiran/tit/search?q=query)
 
 ## 目次
+- [2019/11/kyozin_kata_shoulder_etc.md 巨人の肩に乗る、巨人のすねをかじる、etc](2019/11/kyozin_kata_shoulder_etc.md)
 - [2019/11/minimalist_bingo.md ミニマリストビンゴ bingmaker](2019/11/minimalist_bingo.md)
 - [2019/11/tanosisa_kairaku.md 楽しさと快楽の混同](2019/11/tanosisa_kairaku.md)
 
