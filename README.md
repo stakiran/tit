@@ -10,6 +10,7 @@ Today I Thought.
 - [2019/11/bibouroku_note_memo.md.md 備忘するということ](2019/11/bibouroku_note_memo.md.md)
 - [2019/11/kyozin_kata_shoulder_etc.md 巨人の肩に乗る、巨人のすねをかじる、etc](2019/11/kyozin_kata_shoulder_etc.md)
 - [2019/11/minimalist_bingo.md ミニマリストビンゴ bingmaker](2019/11/minimalist_bingo.md)
+- [2019/11/stress_company_and_home_diff.md.md 会社と自宅とでストレスが全然違う](2019/11/stress_company_and_home_diff.md.md)
 - [2019/11/tanosisa_kairaku.md 楽しさと快楽の混同](2019/11/tanosisa_kairaku.md)
 
 ## License
