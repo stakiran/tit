@@ -42,6 +42,8 @@ https://bingo-maker.net/create/complete.php?id=7860
 ```
 
 ## 作業ログ
+
+```
 持っていないもの 24 個
   テレビ
   パソコン
@@ -80,7 +82,9 @@ https://bingo-maker.net/create/complete.php?id=7860
   2回以上の交換を行える日用品ストック
   両手で掴みきれる以上の書類
   両手で掴みきれる以上の本
+```
 
+```
 o o o o o
 o o o o o
 o o x o o
@@ -89,6 +93,7 @@ o o o o o
 
   関連要素5個を並べる
   関連要素5個を並べない
+```
 
 ## 情報源
 - [#ダンスラビンゴ - Twitter検索 / Twitter](https://twitter.com/hashtag/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%A9%E3%83%93%E3%83%B3%E3%82%B4?src=hash)
