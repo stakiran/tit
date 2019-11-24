@@ -17,6 +17,12 @@ def list2file(filepath, ls):
 def get_directory(path):
     return os.path.dirname(path)
 
+def get_filename(path):
+    return os.path.basename(path)
+
+def get_basename(path):
+    return os.path.splitext(get_filename(path))[0]
+
 MYFULLPATH = os.path.abspath(sys.argv[0])
 MYDIR = os.path.dirname(MYFULLPATH)
 FILENAME_HEADER = 'readme_header.md'
