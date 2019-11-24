@@ -56,6 +56,11 @@ for filepath in targetpaths:
     cur_related_path = cur_fullpath.replace(MYDIR, '')[1:]
     cur_related_path = cur_related_path.replace('\\', '/')
 
+    # 2019/11/tansaku.md
+    #                ^^^ remove here.
+    # For removing '.md' from display text because noisy on search.
+    cur_related_path_without_ext = cur_related_path[:-3]
+
     cur_contents_lines = file2list(cur_fullpath)
     cur_firstline = cur_contents_lines[0]
     # `# Title and keywords`
@@ -64,7 +69,7 @@ for filepath in targetpaths:
 
  
     linkstr = '- [{} {}]({})'.format(
-        cur_related_path,
+        cur_related_path_without_ext,
         cur_title_in_section,
         cur_related_path
     )
