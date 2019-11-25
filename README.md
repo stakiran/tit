@@ -14,7 +14,7 @@ Today I Thought.
 - [2019/11/kyozin_kata_shoulder_etc 巨人の肩に乗る、巨人のすねをかじる、etc](2019/11/kyozin_kata_shoulder_etc.md)
 - [2019/11/minimalist_bingo ミニマリストビンゴ bingmaker](2019/11/minimalist_bingo.md)
 - [2019/11/rakusite_tanosiku_teizi_not_working 毎日楽して楽しく定時退社したい ← たったこれだけのことができない](2019/11/rakusite_tanosiku_teizi_not_working.md)
-- [2019/11/seikatukan_siritai.md 他人の生活感・生活観が知りたい](2019/11/seikatukan_siritai.md.md)
+- [2019/11/seikatukan_siritai 他人の生活感・生活観が知りたい](2019/11/seikatukan_siritai.md)
 - [2019/11/self_develop_book_is_humie 自己啓発書は一種の踏み絵なのかもしれない](2019/11/self_develop_book_is_humie.md)
 - [2019/11/sit_walk_suwaru_aruku_idea 座って文章書いてるだけだと創造性がしょぼい件](2019/11/sit_walk_suwaru_aruku_idea.md)
 - [2019/11/strategic_living_together_share 戦略的同居](2019/11/strategic_living_together_share.md)
