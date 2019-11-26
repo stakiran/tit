@@ -11,6 +11,7 @@ Today I Thought.
 - [2019/11/company_evangelist_content_man 社内にコンテンツを発信するだけで食べていけるようになりたい](2019/11/company_evangelist_content_man.md)
 - [2019/11/cook_metaphor_me_and_others 料理でたとえる僕と他人](2019/11/cook_metaphor_me_and_others.md)
 - [2019/11/engineers_apartment.md エンジニアズマンション ← こういうの欲しいなぁ……](2019/11/engineers_apartment.md.md)
+- [2019/11/kaseihu_card 家政夫カード](2019/11/kaseihu_card.md)
 - [2019/11/kyozin_kata_shoulder_etc 巨人の肩に乗る、巨人のすねをかじる、etc](2019/11/kyozin_kata_shoulder_etc.md)
 - [2019/11/minimalist_bingo ミニマリストビンゴ bingmaker](2019/11/minimalist_bingo.md)
 - [2019/11/rakusite_tanosiku_teizi_not_working 毎日楽して楽しく定時退社したい ← たったこれだけのことができない](2019/11/rakusite_tanosiku_teizi_not_working.md)
