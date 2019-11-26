@@ -12,6 +12,7 @@ Today I Thought.
 - [2019/11/complainment_of_apartment 集合住宅の不満（騒音系）](2019/11/complainment_of_apartment.md)
 - [2019/11/cook_metaphor_me_and_others 料理でたとえる僕と他人](2019/11/cook_metaphor_me_and_others.md)
 - [2019/11/engineers_apartment.md エンジニアズマンション ← こういうの欲しいなぁ……](2019/11/engineers_apartment.md.md)
+- [2019/11/infinity_list_thought_experiment 無限リストの思考実験](2019/11/infinity_list_thought_experiment.md)
 - [2019/11/kaseihu_card 家政夫カード](2019/11/kaseihu_card.md)
 - [2019/11/kyozin_kata_shoulder_etc 巨人の肩に乗る、巨人のすねをかじる、etc](2019/11/kyozin_kata_shoulder_etc.md)
 - [2019/11/minimalist_bingo ミニマリストビンゴ bingmaker](2019/11/minimalist_bingo.md)
