@@ -8,9 +8,9 @@ set mo2=%datebase:~5,2%
 mkdir %~dp0%y4% > nul 2>&1
 mkdir %~dp0%y4%\%mo2% > nul 2>&1
 
-set /p yourcomment="Filename?(Without .md extension!!) >>>";
+set /p yourcomment="Filename?(Need .md extension!!) >>>";
 
-set fullpath=%~dp0%y4%\%mo2%\%yourcomment%.md
+set fullpath=%~dp0%y4%\%mo2%\%yourcomment%
 
 copy nul %fullpath%
 
