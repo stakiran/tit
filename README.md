@@ -9,7 +9,7 @@ Today I Thought.
 - [inbox In-box](inbox.md)
 - [2019/11/bibouroku_note_memo 備忘するということ](2019/11/bibouroku_note_memo.md)
 - [2019/11/company_evangelist_content_man 社内にコンテンツを発信するだけで食べていけるようになりたい](2019/11/company_evangelist_content_man.md)
-- [2019/11/complainment_of_apartment.md 集合住宅の不満（騒音系）](2019/11/complainment_of_apartment.md.md)
+- [2019/11/complainment_of_apartment 集合住宅の不満（騒音系）](2019/11/complainment_of_apartment.md)
 - [2019/11/cook_metaphor_me_and_others 料理でたとえる僕と他人](2019/11/cook_metaphor_me_and_others.md)
 - [2019/11/engineers_apartment.md エンジニアズマンション ← こういうの欲しいなぁ……](2019/11/engineers_apartment.md.md)
 - [2019/11/kaseihu_card 家政夫カード](2019/11/kaseihu_card.md)
