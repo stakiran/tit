@@ -21,6 +21,7 @@ Today I Thought.
 - [2019/11/rakusite_tanosiku_teizi_not_working 毎日楽して楽しく定時退社したい ← たったこれだけのことができない](2019/11/rakusite_tanosiku_teizi_not_working.md)
 - [2019/11/seikatukan_siritai 他人の生活感・生活観が知りたい](2019/11/seikatukan_siritai.md)
 - [2019/11/self_develop_book_is_humie 自己啓発書は一種の踏み絵なのかもしれない](2019/11/self_develop_book_is_humie.md)
+- [2019/11/self_sisitu_4 4つの自己資質](2019/11/self_sisitu_4.md)
 - [2019/11/sit_walk_suwaru_aruku_idea 座って文章書いてるだけだと創造性がしょぼい件](2019/11/sit_walk_suwaru_aruku_idea.md)
 - [2019/11/strategic_living_together_share 戦略的同居](2019/11/strategic_living_together_share.md)
 - [2019/11/stress_company_and_home_diff 会社と自宅とでストレスが全然違う](2019/11/stress_company_and_home_diff.md)
