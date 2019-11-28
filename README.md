@@ -7,6 +7,7 @@ Today I Thought.
 
 ## 目次
 - [inbox In-box](inbox.md)
+- [README tit](README.md)
 - [2019/11/bibouroku_note_memo 備忘するということ](2019/11/bibouroku_note_memo.md)
 - [2019/11/company_evangelist_content_man 社内にコンテンツを発信するだけで食べていけるようになりたい](2019/11/company_evangelist_content_man.md)
 - [2019/11/complainment_of_apartment 集合住宅の不満（騒音系）](2019/11/complainment_of_apartment.md)
@@ -19,6 +20,7 @@ Today I Thought.
 - [2019/11/noise_from_rinzin 隣人の騒音にどう対処するか](2019/11/noise_from_rinzin.md)
 - [2019/11/office_toilet_problem オフィストイレ個室混雑問題](2019/11/office_toilet_problem.md)
 - [2019/11/rakusite_tanosiku_teizi_not_working 毎日楽して楽しく定時退社したい ← たったこれだけのことができない](2019/11/rakusite_tanosiku_teizi_not_working.md)
+- [2019/11/section_sigotozyutu セクション固定仕事術(セクショニング)](2019/11/section_sigotozyutu.md)
 - [2019/11/seikatukan_siritai 他人の生活感・生活観が知りたい](2019/11/seikatukan_siritai.md)
 - [2019/11/self_develop_book_is_humie 自己啓発書は一種の踏み絵なのかもしれない](2019/11/self_develop_book_is_humie.md)
 - [2019/11/self_sisitu_4 4つの自己資質](2019/11/self_sisitu_4.md)
