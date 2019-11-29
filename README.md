@@ -5,12 +5,9 @@ Today I Thought.
 - Find > [Find Files](https://github.com/stakiran/tit/find/master)
 - Find > [Repo Search](https://github.com/stakiran/tit/search?q=query)
 
-## 凡例
-- :fire: めっちゃちらかってる
-
 ## 目次
 - [inbox In-box](inbox.md)
-- [2019/11/anti_productive :fire: 生産的な働き方を受け付けない人達がいる](2019/11/anti_productive.md)
+- [2019/11/anti_productive 生産的な働き方を受け付けない人達がいる](2019/11/anti_productive.md)
 - [2019/11/bibouroku_note_memo 備忘するということ](2019/11/bibouroku_note_memo.md)
 - [2019/11/company_evangelist_content_man 社内にコンテンツを発信するだけで食べていけるようになりたい](2019/11/company_evangelist_content_man.md)
 - [2019/11/complainment_of_apartment 集合住宅の不満（騒音系）](2019/11/complainment_of_apartment.md)

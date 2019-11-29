@@ -1,4 +1,4 @@
-# :fire: 生産的な働き方を受け付けない人達がいる
+# 生産的な働き方を受け付けない人達がいる
 
 ## inspired by
 [Slackはただのコミュニケーションツールじゃない、企業の技術を映す鏡だ](https://qiita.com/KizashiTakata/items/d442d4a28d147529f1b6) の記事

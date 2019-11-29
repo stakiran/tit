@@ -5,7 +5,4 @@ Today I Thought.
 - Find > [Find Files](https://github.com/stakiran/tit/find/master)
 - Find > [Repo Search](https://github.com/stakiran/tit/search?q=query)
 
-## 凡例
-- :fire: めっちゃちらかってる
-
 ## 目次
