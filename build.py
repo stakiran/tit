@@ -38,6 +38,7 @@ searchee_files = glob.glob(query, recursive=True)
 
 targetpaths = []
 for filepath in searchee_files:
+    filepath = filepath.lower()
     if filepath.endswith('{}'.format(FILENAME_OUTPUT)):
         continue
     if filepath.endswith('{}'.format(FILENAME_HEADER)):
