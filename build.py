@@ -38,11 +38,11 @@ searchee_files = glob.glob(query, recursive=True)
 
 targetpaths = []
 for filepath in searchee_files:
-    if filepath.endswith('{}'.format(FILENAME_OUTPUT)):
+    if filepath.lower().endswith('{}'.format(FILENAME_OUTPUT)):
         continue
-    if filepath.endswith('{}'.format(FILENAME_HEADER)):
+    if filepath.lower().endswith('{}'.format(FILENAME_HEADER)):
         continue
-    if filepath.endswith('{}'.format(FILENAME_FOOTER)):
+    if filepath.lower().endswith('{}'.format(FILENAME_FOOTER)):
         continue
     targetpaths.append(filepath)
 
