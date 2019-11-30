@@ -15,7 +15,7 @@ Today I Thought.
 ## もくじ
 
 - [2019/12/meaning_of_texting_and_markdown なぜテキストで残すのか、なぜ Markdown で書くのか](2019/12/meaning_of_texting_and_markdown.md)
-- [2019/12/best_effort_and_better_effort ギャランティとベストエフォートとベターエフォート](2019/12/best_effort_and_better_effort.md)
+- [2019/12/best_effort_and_better_effort_and_guarantee ギャランティとベストエフォートとベターエフォート](2019/12/best_effort_and_better_effort_and_guarantee.md)
 - [2019/11/youtube_dislike YouTube が嫌い](2019/11/youtube_dislike.md)
 - [2019/11/working_memory_1 ワーキングメモリ 1 の世界](2019/11/working_memory_1.md)
 - [2019/11/tansaku 探策＝探検＋散策](2019/11/tansaku.md)
