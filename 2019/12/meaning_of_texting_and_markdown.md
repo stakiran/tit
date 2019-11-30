@@ -67,7 +67,7 @@
 
 チュートリアルのヒント:
 
-- [備忘させる](../11/bibouroku_note_memo.md)
+- 備忘させる
   - til(today i learned)
   - 日報
   - 分報
