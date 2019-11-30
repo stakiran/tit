@@ -1,12 +1,17 @@
 # tit
 Today I Thought.
 
+## さがす
 - [GitHub Pages](https://stakiran.github.io/tit/)
 - Find > [Find Files](https://github.com/stakiran/tit/find/master)
 - Find > [Repo Search](https://github.com/stakiran/tit/search?q=query)
   - ちなみに日本語検索は [構文的な単語一致](https://qiita.com/sta/items/1023ef3cf1cec7b56689) なのであまり役に立たない……
 
-## 目次
+## この tit について
+- 筆者の独断と偏見、狭い観測範囲と経験則に基づいて書いてることが多い
+- ブレストや殴り書きレベルの散文が多い
+
+## もくじ
 
 - [2019/12/meaning_of_texting_and_markdown なぜテキストで残すのか、なぜ Markdown で書くのか](2019/12/meaning_of_texting_and_markdown.md)
 - [2019/11/youtube_dislike YouTube が嫌い](2019/11/youtube_dislike.md)
