@@ -77,6 +77,19 @@ for filepath in targetpaths:
 # Add a blank line for easy to read.
 lines_toc.append('')
 
+# yeah!
+#   2019/12  (*) Newest entries must be top!
+#   2019/11
+#   2019/10
+#   ...
+#
+# bad...
+#   ...
+#   2019/10
+#   2019/11
+#   2019/12
+lines_toc.reverse()
+
 # Construct with header, footer and body lines.
 lines_for_output = []
 lines_for_output.extend(lines_header)
