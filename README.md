@@ -35,6 +35,7 @@ Today I Thought.
 - [2019/11/tansaku 探策＝探検＋散策](2019/11/tansaku.md)
 - [2019/11/working_memory_1 ワーキングメモリ 1 の世界](2019/11/working_memory_1.md)
 - [2019/11/youtube_dislike YouTube が嫌い](2019/11/youtube_dislike.md)
+- [2019/12/meaning_of_texting_and_markdown なぜテキストで残すのか、なぜ Markdown で書くのか](2019/12/meaning_of_texting_and_markdown.md)
 
 ## License
 - ソースコードは [MIT](LICENSE)
