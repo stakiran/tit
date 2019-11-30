@@ -14,7 +14,6 @@ Today I Thought.
 - [開発用README](readme_development.md)
 
 ## もくじ
-
 - [2019/12/meaning_of_texting_and_markdown なぜテキストで残すのか、なぜ Markdown で書くのか](2019/12/meaning_of_texting_and_markdown.md)
 - [2019/12/best_effort_and_better_effort_and_guarantee ギャランティとベストエフォートとベターエフォート](2019/12/best_effort_and_better_effort_and_guarantee.md)
 - [2019/11/youtube_dislike YouTube が嫌い](2019/11/youtube_dislike.md)
@@ -45,6 +44,7 @@ Today I Thought.
 - [2019/11/bibouroku_note_memo 備忘するということ](2019/11/bibouroku_note_memo.md)
 - [2019/11/anti_productive 生産的な働き方を受け付けない人達がいる](2019/11/anti_productive.md)
 - [inbox In-box](inbox.md)
+
 ## License
 - ソースコードは [MIT](LICENSE)
 - ドキュメントは [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](http://creativecommons.org/licenses/by-nc-sa/3.0/)

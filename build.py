@@ -81,9 +81,6 @@ for filepath in targetpaths:
         cur_related_path
     )
     lines_toc.append(linkstr)
-# Add a blank line for easy to read.
-lines_toc.append('')
-
 # yeah!
 #   2019/12  (*) Newest entries must be top!
 #   2019/11
@@ -96,6 +93,8 @@ lines_toc.append('')
 #   2019/11
 #   2019/12
 lines_toc.reverse()
+# Add a blank line for easy to read.
+lines_toc.append('')
 
 # Construct with header, footer and body lines.
 lines_for_output = []
