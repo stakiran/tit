@@ -29,6 +29,7 @@ Today I Thought.
 - [2019/11/sit_walk_suwaru_aruku_idea 座って文章書いてるだけだと創造性がしょぼい件](2019/11/sit_walk_suwaru_aruku_idea.md)
 - [2019/11/strategic_living_together_share 戦略的同居](2019/11/strategic_living_together_share.md)
 - [2019/11/stress_company_and_home_diff 会社と自宅とでストレスが全然違う](2019/11/stress_company_and_home_diff.md)
+- [2019/11/talking_platform 語らせるプラットフォーム](2019/11/talking_platform.md)
 - [2019/11/tanosisa_kairaku 楽しさと快楽の混同](2019/11/tanosisa_kairaku.md)
 - [2019/11/tansaku 探策＝探検＋散策](2019/11/tansaku.md)
 - [2019/11/working_memory_1 ワーキングメモリ 1 の世界](2019/11/working_memory_1.md)
