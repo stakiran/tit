@@ -29,6 +29,9 @@ FILENAME_HEADER   = 'readme_header.md'
 FILENAME_FOOTER   = 'readme_footer.md'
 FILENAME_OUTPUT   = 'readme.md'
 FILENAME_EXCLUDES = [
+    FILENAME_HEADER,
+    FILENAME_FOOTER,
+    FILENAME_OUTPUT,
     'readme_development.md'
 ]
 
@@ -48,14 +51,6 @@ for filepath in searchee_files:
             break
     if do_skip:
         continue
-
-    if filepath.lower().endswith('{}'.format(FILENAME_OUTPUT)):
-        continue
-    if filepath.lower().endswith('{}'.format(FILENAME_HEADER)):
-        continue
-    if filepath.lower().endswith('{}'.format(FILENAME_FOOTER)):
-        continue
-
     targetpaths.append(filepath)
 
 lines_toc = []
