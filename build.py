@@ -25,9 +25,12 @@ def get_basename(path):
 
 MYFULLPATH = os.path.abspath(sys.argv[0])
 MYDIR = os.path.dirname(MYFULLPATH)
-FILENAME_HEADER = 'readme_header.md'
-FILENAME_FOOTER = 'readme_footer.md'
-FILENAME_OUTPUT = 'readme.md'
+FILENAME_HEADER   = 'readme_header.md'
+FILENAME_FOOTER   = 'readme_footer.md'
+FILENAME_OUTPUT   = 'readme.md'
+FILENAME_EXCLUDES = [
+    'readme_development.md'
+]
 
 lines_header = file2list(FILENAME_HEADER)
 lines_footer = file2list(FILENAME_FOOTER)
@@ -38,12 +41,21 @@ searchee_files = glob.glob(query, recursive=True)
 
 targetpaths = []
 for filepath in searchee_files:
+    do_skip = False
+    for excluder in FILENAME_EXCLUDES:
+        if filepath.lower().endswith('{}'.format(excluder)):
+            do_skip = True
+            break
+    if do_skip:
+        continue
+
     if filepath.lower().endswith('{}'.format(FILENAME_OUTPUT)):
         continue
     if filepath.lower().endswith('{}'.format(FILENAME_HEADER)):
         continue
     if filepath.lower().endswith('{}'.format(FILENAME_FOOTER)):
         continue
+
     targetpaths.append(filepath)
 
 lines_toc = []
