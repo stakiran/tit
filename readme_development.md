@@ -1,4 +1,4 @@
-# 開発用 README
+# README for development
 
 ## requirement
 - Windows 10+
@@ -48,3 +48,5 @@ build.py が走った後、commit と push も走る（コミットメッセー�
 
 ### q: why write '.md' extension need?
 手間を考えれば .md は自動入力させるのが良いが、私の癖でファイル名につい .md と書いてしまう（結果 .md.md になってしまう :smirk:）ので、あえて自動入力させてない。
+
+### q: why datetime yyyy/mm only? is there more detail datetime?
