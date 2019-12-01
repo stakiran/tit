@@ -23,6 +23,7 @@ Today I Thought.
 - [開発用README](readme_development.md)
 
 ## もくじ
+- [2019/12/plpr_plain_presentation plpr - plain presentation プレプレ プレインプレゼンテーション](2019/12/plpr_plain_presentation.md)
 - [2019/12/meaning_of_texting_and_markdown なぜテキストで残すのか、なぜ Markdown で書くのか](2019/12/meaning_of_texting_and_markdown.md)
 - [2019/12/effort_visualization 俺の努力も知らないくせに ← だったら見せましょう](2019/12/effort_visualization.md)
 - [2019/12/best_effort_and_better_effort_and_guarantee ギャランティとベストエフォートとベターエフォート](2019/12/best_effort_and_better_effort_and_guarantee.md)
