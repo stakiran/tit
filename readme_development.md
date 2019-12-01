@@ -46,7 +46,7 @@ build.py が走った後、commit と push も走る（コミットメッセー�
 
 すぐに n.bat でファイル名が思い浮かばない場合は、inbox.md に溜める。
 
-### q: why write '.md' extension need?
+### q: why write '.md' extension every time?
 手間を考えれば .md は自動入力させるのが良いが、私の癖でファイル名につい .md と書いてしまう（結果 .md.md になってしまう :smirk:）ので、あえて自動入力させてない。
 
 ### q: why datetime yyyy/mm only? is there more detail datetime?
