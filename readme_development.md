@@ -49,4 +49,5 @@ build.py が走った後、commit と push も走る（コミットメッセー�
 ### q: why write '.md' extension every time?
 手間を考えれば .md は自動入力させるのが良いが、私の癖でファイル名につい .md と書いてしまう（結果 .md.md になってしまう :smirk:）ので、あえて自動入力させてない。
 
-### q: why datetime yyyy/mm only? is there more detail datetime?
+### q: why datetime yyyy/mm only on creating? is there more detail datetime?
+作成日時情報が多いと邪魔なのと、ブレスト的なネタ置き場を想定してることもあって厳密な投稿日時は別に重要じゃない（あといざとなればバージョン履歴から追える）のでやめた。
