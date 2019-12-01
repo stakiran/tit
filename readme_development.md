@@ -1,6 +1,6 @@
 # README for development
 
-## requirement
+## requirements
 - Windows 10+
 - Python 3.6+
 
@@ -28,7 +28,7 @@ n.bat を実行する。
 
 オープンは「md ファイルに関連付けられたアプリ」で開く。
 
-## build and commit and upload
+### build and commit and upload
 b.bat を実行する。
 
 build.py が走った後、commit と push も走る（コミットメッセージは都度入力だが適当で良い）。
