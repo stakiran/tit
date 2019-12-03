@@ -19,7 +19,7 @@ Today I Thought.
   - :art: 画面例
   - 発言例
     - :ox: :dog: :cat: :cow: :pig: :bat: :owl: :bug: :rat: :ram: ……
-    - 2～3文字の絵文字
+    - 2～3文字の生物絵文字
   - :o: :x: メリット・デメリット
 - [開発用README](readme_development.md)
 
