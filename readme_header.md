@@ -18,7 +18,7 @@ Today I Thought.
   - :train: 脱線
   - :art: 画面例
   - 発言例
-    - :ox: :dog: :cat: :cow: ……
+    - :ox: :dog: :cat: :cow: :pig: :bat: :owl: :bug: :rat: :ram: ……
     - 2～3文字の絵文字
   - :o: :x: メリット・デメリット
 - [開発用README](readme_development.md)
