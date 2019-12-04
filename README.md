@@ -5,11 +5,12 @@ Today I Thought.
 - [GitHub Pages](https://stakiran.github.io/tit/)
 - Find > [Find Files](https://github.com/stakiran/tit/find/master)
 - Find > [Repo Search](https://github.com/stakiran/tit/search?q=query)
+  - [todo](https://github.com/stakiran/tit/search?q="%40todo")
   - ちなみに日本語検索は [構文的な単語一致](https://qiita.com/sta/items/1023ef3cf1cec7b56689) なのであまり役に立たない……
 
 ## この tit について
 - 筆者の独断と偏見、狭い観測範囲と経験則に基づいて書いてることが多い
-- ブレストや殴り書きレベルの散文が多い
+- ブレストや殴り書きレベルの散文が多い（結論が出ていないこともある）
 - 内容は予告なく追加・更新・削除する
 - 絵文字の意味
   - :warning: 注意
@@ -17,17 +18,19 @@ Today I Thought.
   - :train: 脱線
   - :art: 画面例
   - 発言例
-    - :ox: :dog: :cat: :cow: ……
-    - 2～3文字の絵文字
+    - :ox: :dog: :cat: :cow: :pig: :bat: :owl: :bug: :rat: :ram: ……
+    - 2～3文字の生物絵文字
   - :o: :x: メリット・デメリット
 - [開発用README](readme_development.md)
 
 ## もくじ
 - [2019/12/what_is_content_in_company_outputer コンテンツとは何か @todo まだブレスト途中](2019/12/what_is_content_in_company_outputer.md)
 - [2019/12/what_is_communication_syndrome コミュ症って何なの？](2019/12/what_is_communication_syndrome.md)
+- [2019/12/road_shuffle ロードシャッフル](2019/12/road_shuffle.md)
 - [2019/12/plpr_plain_presentation plpr - plain presentation プレプレ プレインプレゼンテーション](2019/12/plpr_plain_presentation.md)
 - [2019/12/meaning_of_texting_and_markdown なぜテキストで残すのか、なぜ Markdown で書くのか](2019/12/meaning_of_texting_and_markdown.md)
 - [2019/12/effort_visualization 俺の努力も知らないくせに ← だったら見せましょう](2019/12/effort_visualization.md)
+- [2019/12/dacerush_tenpo_gamecenter 俺だったらこんなダンスラ店鋪にする](2019/12/dacerush_tenpo_gamecenter.md)
 - [2019/12/best_effort_and_better_effort_and_guarantee ギャランティとベストエフォートとベターエフォート](2019/12/best_effort_and_better_effort_and_guarantee.md)
 - [2019/12/antipattern_of_efficy_based_on_strength_finder_ ストレングス・ファインダーの資質グループは「効率化しちゃいけないこと」なのかもしれない](2019/12/antipattern_of_efficy_based_on_strength_finder_.md)
 - [2019/11/youtube_dislike YouTube が嫌い](2019/11/youtube_dislike.md)
