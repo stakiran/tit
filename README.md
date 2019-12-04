@@ -24,6 +24,7 @@ Today I Thought.
 - [開発用README](readme_development.md)
 
 ## もくじ
+- [2019/12/wht_not_dokuritu なぜ独立しない（フリーにならない）のか](2019/12/wht_not_dokuritu.md)
 - [2019/12/what_is_content_in_company_outputer コンテンツとは何か @todo まだブレスト途中](2019/12/what_is_content_in_company_outputer.md)
 - [2019/12/what_is_communication_syndrome コミュ症って何なの？](2019/12/what_is_communication_syndrome.md)
 - [2019/12/road_shuffle ロードシャッフル](2019/12/road_shuffle.md)
