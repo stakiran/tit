@@ -25,7 +25,7 @@ Today I Thought.
 
 ## もくじ
 - [2019/12/wht_not_dokuritu なぜ独立しない（フリーにならない）のか](2019/12/wht_not_dokuritu.md)
-- [2019/12/what_is_content_in_company_outputer コンテンツとは何か @todo まだブレスト途中](2019/12/what_is_content_in_company_outputer.md)
+- [2019/12/what_is_content_in_company_outputer （社内でコンテンツ発信専任者とした食べていくための）コンテンツとは何か](2019/12/what_is_content_in_company_outputer.md)
 - [2019/12/what_is_communication_syndrome コミュ症って何なの？](2019/12/what_is_communication_syndrome.md)
 - [2019/12/road_shuffle ロードシャッフル](2019/12/road_shuffle.md)
 - [2019/12/plpr_plain_presentation plpr - plain presentation プレプレ プレインプレゼンテーション](2019/12/plpr_plain_presentation.md)
