@@ -31,6 +31,7 @@ Today I Thought.
 - [2019/12/plpr_plain_presentation plpr - plain presentation プレプレ プレインプレゼンテーション](2019/12/plpr_plain_presentation.md)
 - [2019/12/meaning_of_texting_and_markdown なぜテキストで残すのか、なぜ Markdown で書くのか](2019/12/meaning_of_texting_and_markdown.md)
 - [2019/12/effort_visualization 俺の努力も知らないくせに ← だったら見せましょう](2019/12/effort_visualization.md)
+- [2019/12/dokuritu_siroyo_free_ni_nareyo 「（会社が嫌なら）独立しろよ」と思考停止する人々](2019/12/dokuritu_siroyo_free_ni_nareyo.md)
 - [2019/12/dacerush_tenpo_gamecenter 俺だったらこんなダンスラ店鋪にする](2019/12/dacerush_tenpo_gamecenter.md)
 - [2019/12/best_effort_and_better_effort_and_guarantee ギャランティとベストエフォートとベターエフォート](2019/12/best_effort_and_better_effort_and_guarantee.md)
 - [2019/12/antipattern_of_efficy_based_on_strength_finder_ ストレングス・ファインダーの資質グループは「効率化しちゃいけないこと」なのかもしれない](2019/12/antipattern_of_efficy_based_on_strength_finder_.md)
