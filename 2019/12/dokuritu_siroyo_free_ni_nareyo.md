@@ -17,6 +17,6 @@
     - 上はそれくらいの変化と試行は行わなきゃいけない（ていうか行えない人が立っちゃいけない、少なくともこういった導入をコントロールする権限を手にしちゃいけないと思う）
   - まあこの辺の話は散々書いた
     - [../11/rakusite_tanosiku_teizi_not_working.md](../11/rakusite_tanosiku_teizi_not_working.md)
-    - [../11/anti_productive.md](11/anti_productive.md)
+    - [../11/anti_productive.md](../11/anti_productive.md)
 
 ちなみに僕がそれでも [独立しない理由はこっち](wht_not_dokuritu.md)。一言で言えば実力が足りん。会社というエコシステムの中でぬくぬく生きたい。
