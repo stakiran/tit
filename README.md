@@ -31,7 +31,7 @@ Today I Thought.
 - [2019/12/04_road_shuffle ロードシャッフル](2019/12/04_road_shuffle.md)
 - [2019/12/04_dacerush_tenpo_gamecenter 俺だったらこんなダンスラ店鋪にする](2019/12/04_dacerush_tenpo_gamecenter.md)
 - [2019/12/03_what_is_communication_syndrome コミュ症って何なの？](2019/12/03_what_is_communication_syndrome.md)
-- [2019/12/03_antipattern_of_efficy_based_on_strength_finder_ ストレングス・ファインダーの資質グループは「効率化しちゃいけないこと」なのかもしれない](2019/12/03_antipattern_of_efficy_based_on_strength_finder_.md)
+- [2019/12/03_antipattern_of_efficy_based_on_strength_finder ストレングス・ファインダーの資質グループは「効率化しちゃいけないこと」なのかもしれない](2019/12/03_antipattern_of_efficy_based_on_strength_finder.md)
 - [2019/12/02_plpr_plain_presentation plpr - plain presentation プレプレ プレインプレゼンテーション](2019/12/02_plpr_plain_presentation.md)
 - [2019/12/01_meaning_of_texting_and_markdown なぜテキストで残すのか、なぜ Markdown で書くのか](2019/12/01_meaning_of_texting_and_markdown.md)
 - [2019/12/01_effort_visualization 俺の努力も知らないくせに ← だったら見せましょう](2019/12/01_effort_visualization.md)
