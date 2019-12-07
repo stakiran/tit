@@ -35,6 +35,7 @@ Today I Thought.
 - [2019/12/dacerush_tenpo_gamecenter 俺だったらこんなダンスラ店鋪にする](2019/12/dacerush_tenpo_gamecenter.md)
 - [2019/12/best_effort_and_better_effort_and_guarantee ギャランティとベストエフォートとベターエフォート](2019/12/best_effort_and_better_effort_and_guarantee.md)
 - [2019/12/antipattern_of_efficy_based_on_strength_finder_ ストレングス・ファインダーの資質グループは「効率化しちゃいけないこと」なのかもしれない](2019/12/antipattern_of_efficy_based_on_strength_finder_.md)
+- [2019/12/alternative_of_isyokuzyu 「衣食住」よりも網羅的な概念](2019/12/alternative_of_isyokuzyu.md)
 - [2019/11/youtube_dislike YouTube が嫌い](2019/11/youtube_dislike.md)
 - [2019/11/working_memory_1 ワーキングメモリ 1 の世界](2019/11/working_memory_1.md)
 - [2019/11/tansaku 探策＝探検＋散策](2019/11/tansaku.md)
