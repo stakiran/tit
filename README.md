@@ -23,7 +23,7 @@ Today I Thought.
 | Date | Title |
 | ---- | ----- |
 | 2019/12/07 | [「衣食住」よりも網羅的な概念](2019/12/07_alternative_of_isyokuzyu.md) |
-| 2019/12/05 | [なぜ独立しない（フリーにならない）のか](2019/12/05_wht_not_dokuritu.md) |
+| 2019/12/05 | [なぜ独立しない（フリーにならない）のか](2019/12/05_why_not_dokuritu.md) |
 | 2019/12/05 | [（社内でコンテンツ発信専任者とした食べていくための）コンテンツとは何か](2019/12/05_what_is_content_in_company_outputer.md) |
 | 2019/12/05 | [「（会社が嫌なら）独立しろよ」と思考停止する人々](2019/12/05_dokuritu_siroyo_free_ni_nareyo.md) |
 | 2019/12/04 | [ロードシャッフル](2019/12/04_road_shuffle.md) |
