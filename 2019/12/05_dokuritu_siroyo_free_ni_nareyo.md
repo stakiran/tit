@@ -16,8 +16,8 @@
     - 力学に適さないかどうかは、やってみてから判断すればいいこと
     - 上はそれくらいの変化と試行は行わなきゃいけない（ていうか行えない人が立っちゃいけない、少なくともこういった導入をコントロールする権限を手にしちゃいけないと思う）
   - まあこの辺の話は散々書いた
-    - [../11/rakusite_tanosiku_teizi_not_working.md](../11/rakusite_tanosiku_teizi_not_working.md)
-    - [../11/anti_productive.md](../11/anti_productive.md)
+    - [1](25_rakusite_tanosiku_teizi_not_working.md)
+    - [2](../11/29_anti_productive.md)
   - 既にあっぷあっぷだから
     - ここも問題なんだよなぁ
     - 毎日定時退社できてる管理職、たぶん 1% もない
