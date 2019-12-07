@@ -54,6 +54,7 @@ for filepath in searchee_files:
     targetpaths.append(filepath)
 
 lines_toc = []
+
 for filepath in targetpaths:
     cur_fullpath = filepath
     cur_filename = get_filename(cur_fullpath)
@@ -74,13 +75,14 @@ for filepath in targetpaths:
     #    ^^^^^^^^^^^^^^^^^^   pick here.
     cur_title_in_section = cur_firstline[2:]
 
- 
-    linkstr = '- [{} {}]({})'.format(
-        cur_related_path_without_ext,
+    created_at = cur_related_path[:len('yyyy/mm/dd')]
+    linkstr = '[{}]({})'.format(
         cur_title_in_section,
         cur_related_path
     )
-    lines_toc.append(linkstr)
+
+    line = '| {} | {} |'.format(created_at, linkstr)
+    lines_toc.append(line)
 # yeah!
 #   2019/12  (*) Newest entries must be top!
 #   2019/11
@@ -93,8 +95,14 @@ for filepath in targetpaths:
 #   2019/11
 #   2019/12
 lines_toc.reverse()
+
 # Add a blank line for easy to read.
 lines_toc.append('')
+
+# Add headrs
+lines_toc.insert(0, '| ---- | ----- |')
+lines_toc.insert(0, '| Date | Title |')
+
 
 # Construct with header, footer and body lines.
 lines_for_output = []
