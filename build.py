@@ -96,12 +96,19 @@ for filepath in targetpaths:
 #   2019/12
 lines_toc.reverse()
 
-# Add a blank line for easy to read.
+# Add a blank line to the tail for easy to read.
 lines_toc.append('')
-
-# Add headrs
+# Add headers
 lines_toc.insert(0, '| ---- | ----- |')
 lines_toc.insert(0, '| Date | Title |')
+# Add a blank line to the head because jekyll specitication.
+#
+# (OK)
+#     # section
+#                      (!) Must be needed this blank!
+#     | xxx | xxx |
+#     | --- | --- |
+lines_toc.insert(0, '')
 
 
 # Construct with header, footer and body lines.
