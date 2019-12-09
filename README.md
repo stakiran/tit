@@ -23,7 +23,7 @@ Today I Thought.
 | Date | Title |
 | ---- | ----- |
 | 2019/12/09 | [効率化や生産性向上が響かないのはなぜか](2019/12/09_why_efficy_and_productivity_not_appeal.md) |
-| 2019/12/09 | [PC 作業のミニマリズム](2019/12/09_minimalism_of_windows_computer_explorer.md) |
+| 2019/12/09 | [PC のミニマリズム](2019/12/09_minimalism_of_windows_computer_explorer.md) |
 | 2019/12/07 | [「衣食住」よりも網羅的な概念](2019/12/07_alternative_of_isyokuzyu.md) |
 | 2019/12/05 | [なぜ独立しない（フリーにならない）のか](2019/12/05_why_not_dokuritu.md) |
 | 2019/12/05 | [（社内でコンテンツ発信専任者とした食べていくための）コンテンツとは何か](2019/12/05_what_is_content_in_company_outputer.md) |
