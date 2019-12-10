@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2019/12/11 | [覚え続けることができない](2019/12/11_oboetudukerukotogadekinai.md) |
 | 2019/12/09 | [効率化や生産性向上が響かないのはなぜか](2019/12/09_why_efficy_and_productivity_not_appeal.md) |
 | 2019/12/09 | [PC のミニマリズム](2019/12/09_minimalism_of_windows_computer_explorer.md) |
 | 2019/12/07 | [「衣食住」よりも網羅的な概念](2019/12/07_alternative_of_isyokuzyu.md) |
