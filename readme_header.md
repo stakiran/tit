@@ -15,7 +15,7 @@ Today I Thought.
   - :warning: 注意、:poop: 自虐、:train: 脱線、:o: メリット、:x: デメリット
   - 発言例
     - :ox: :dog: :cat: :cow: :pig: :bat: :owl: :bug: :rat: :ram: ……
-    - 2～3文字の生物絵文字
+    - 色んな絵文字を気分で使う
 - [開発用README](readme_development.md)
 
 ## もくじ
