@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2019/12/18 | [大企業に居続ける理由](2019/12/18_the_reason_of_belonging_oote_daikigyo.md) |
 | 2019/12/17 | [知的生産とは何か](2019/12/17_what_is_titeki_seisan.md) |
 | 2019/12/17 | [モニターリスト](2019/12/17_monitorlist.md) |
 | 2019/12/17 | [匿名指摘部隊](2019/12/17_anonymous_tokumei_siteki_butai.md) |
