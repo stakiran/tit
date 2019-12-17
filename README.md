@@ -23,6 +23,7 @@ Today I Thought.
 | Date | Title |
 | ---- | ----- |
 | 2019/12/17 | [知的生産とは何か](2019/12/17_what_is_titeki_seisan.md) |
+| 2019/12/17 | [モニターリスト](2019/12/17_monitorlist.md) |
 | 2019/12/17 | [匿名指摘部隊](2019/12/17_anonymous_tokumei_siteki_butai.md) |
 | 2019/12/13 | [生産性向上とは「なるべく一人で処理できるようにする」こと](2019/12/13_narubeku_hitoride.md) |
 | 2019/12/11 | [覚え続けることができない](2019/12/11_oboetudukerukotogadekinai.md) |
