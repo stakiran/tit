@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2019/12/23 | [自分をバージョン管理したい](2019/12/23_self_versioning.md) |
 | 2019/12/20 | [ぼくがかんがえたさいきょうののみかい](2019/12/20_nomikai_i_thought.md) |
 | 2019/12/19 | [一般的な心理的安全性](2019/12/19_sinriteki_anzensei.md) |
 | 2019/12/18 | [大企業に居続ける理由](2019/12/18_the_reason_of_belonging_oote_daikigyo.md) |
