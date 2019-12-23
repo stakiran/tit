@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2019/12/23 | [なぜ海外に行かないか](2019/12/23_why_kaigai_ikanai_abroad.md) |
 | 2019/12/23 | [自分をバージョン管理したい](2019/12/23_self_versioning.md) |
 | 2019/12/20 | [ぼくがかんがえたさいきょうののみかい](2019/12/20_nomikai_i_thought.md) |
 | 2019/12/19 | [一般的な心理的安全性](2019/12/19_sinriteki_anzensei.md) |
