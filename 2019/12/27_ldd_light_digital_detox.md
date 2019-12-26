@@ -20,11 +20,11 @@ LDD という名前
       - > 1つの大きな要素はSNSのデトックスであり、それはある人が自発的にSNSから離れている期間を表す
       - > 節度を保つことは完全にテクノロジーを捨て去ることよりもはるかに効果的
       - > SNSのプラットフォームが、 「いいね!」や通知といった機能やタイムラインを延々とスクロールさせることでSNSの継続的な利用を奨励することを目標としている
-    - [デジタルデトックスとは？ | DIGITAL DETOX JAPAN](https://digitaldetox.jp/digitaldetox/)
+    - [デジタルデトックスとは？ - DIGITAL DETOX JAPAN](https://digitaldetox.jp/digitaldetox/)
       - > 平均的なユーザーはソーシャルメディアだけで1日平均2.15時間を費やします。（2012年時点では平均1.5時間）
       - > 高校生の平日の平均利用 時間は177.7分でした。
       - > 頼りすぎることは、逆に私たちの本来持っている能力を退化させることにつながります。
-    - [デジタル・デトックスがスマホ依存の根本解決にはならない理由 | ライフハッカー［日本版］](https://www.lifehacker.jp/2019/03/187796why-digital-detoxes-dont-work.html)
+    - [デジタル・デトックスがスマホ依存の根本解決にはならない理由 - ライフハッカー［日本版］](https://www.lifehacker.jp/2019/03/187796why-digital-detoxes-dont-work.html)
       - ダイエットみたいなもの
       - ちゃんと恒久的にデトックスしたいならスマホとの向き合い方そのものを変える
     - [Paper phone - A printable Paper Phone which helps you take a break away from your digital world - YouTube](https://www.youtube.com/watch?time_continue=4&v=mAKzUcM0w_s&feature=emb_title) 紙スマホ
