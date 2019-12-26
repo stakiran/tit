@@ -30,6 +30,11 @@ LDD という名前
     - [Paper phone - A printable Paper Phone which helps you take a break away from your digital world - YouTube](https://www.youtube.com/watch?time_continue=4&v=mAKzUcM0w_s&feature=emb_title) 紙スマホ
       - 印刷したのを折りたたんで持ち込む
       - 連絡先とかタスクリストとか色々書いてる
+  - まとめると
+    - 生産性や時間が削がれる ← これは知ってる
+    - 節度持てるならそれで良い、でも持てない or 持つ発想さえない人が多数派に見える
+    - 心身的な悪影響もあるらしい
+    - ほぼ SNS
 
 LDD - Light Digital Detox
 
