@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2019/12/27 | [LDD ライト・デジタル・デトックス](2019/12/27_ldd_light_digital_detox.md) |
 | 2019/12/26 | [オープンな刑務所](2019/12/26_open_jail.md) |
 | 2019/12/23 | [なぜ海外に行かないか](2019/12/23_why_kaigai_ikanai_abroad.md) |
 | 2019/12/23 | [自分をバージョン管理したい](2019/12/23_self_versioning.md) |
