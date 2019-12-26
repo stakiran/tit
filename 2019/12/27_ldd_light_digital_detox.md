@@ -14,6 +14,22 @@ LDD という名前
 - これに LDD と名付けてみた
 - 一般的な DD(デジタル・デトックス)はいったん度外視
   - なんか断捨離みたく色々コンセプトありそうな臭い
+  - ちょっと簡単に調べておく
+    - [デジタル・デトックス - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%87%E3%83%88%E3%83%83%E3%82%AF%E3%82%B9)
+      - > マインドフルネスの向上のため
+      - > 1つの大きな要素はSNSのデトックスであり、それはある人が自発的にSNSから離れている期間を表す
+      - > 節度を保つことは完全にテクノロジーを捨て去ることよりもはるかに効果的
+      - > SNSのプラットフォームが、 「いいね!」や通知といった機能やタイムラインを延々とスクロールさせることでSNSの継続的な利用を奨励することを目標としている
+    - [デジタルデトックスとは？ | DIGITAL DETOX JAPAN](https://digitaldetox.jp/digitaldetox/)
+      - > 平均的なユーザーはソーシャルメディアだけで1日平均2.15時間を費やします。（2012年時点では平均1.5時間）
+      - > 高校生の平日の平均利用 時間は177.7分でした。
+      - > 頼りすぎることは、逆に私たちの本来持っている能力を退化させることにつながります。
+    - [デジタル・デトックスがスマホ依存の根本解決にはならない理由 | ライフハッカー［日本版］](https://www.lifehacker.jp/2019/03/187796why-digital-detoxes-dont-work.html)
+      - ダイエットみたいなもの
+      - ちゃんと恒久的にデトックスしたいならスマホとの向き合い方そのものを変える
+    - [Paper phone - A printable Paper Phone which helps you take a break away from your digital world - YouTube](https://www.youtube.com/watch?time_continue=4&v=mAKzUcM0w_s&feature=emb_title) 紙スマホ
+      - 印刷したのを折りたたんで持ち込む
+      - 連絡先とかタスクリストとか色々書いてる
 
 LDD - Light Digital Detox
 
