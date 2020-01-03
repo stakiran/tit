@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2020/01/03 | [幸福と充実](2020/01/03_happiness_and_satisfaction.md) |
 | 2019/12/27 | [LDD ライト・デジタル・デトックス](2019/12/27_ldd_light_digital_detox.md) |
 | 2019/12/27 | [Slack でテキストチャットミーティングしたい](2019/12/27_i_want_to_textmeeting_with_slack_chat.md) |
 | 2019/12/26 | [オープンな刑務所](2019/12/26_open_jail.md) |
