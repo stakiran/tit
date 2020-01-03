@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2020/01/03 | [出版業界(web小説)を面白くするには](2020/01/03_how_to_more_interest_book_web_novel_world.md) |
 | 2020/01/03 | [幸福と充実](2020/01/03_happiness_and_satisfaction.md) |
 | 2019/12/27 | [LDD ライト・デジタル・デトックス](2019/12/27_ldd_light_digital_detox.md) |
 | 2019/12/27 | [Slack でテキストチャットミーティングしたい](2019/12/27_i_want_to_textmeeting_with_slack_chat.md) |
