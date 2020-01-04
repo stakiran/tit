@@ -83,7 +83,6 @@ Today I Thought.
 
 ## License
 - ソースコードは [MIT](LICENSE)
-- ドキュメントは [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ## Author
 [stakiran](https://github.com/stakiran)
