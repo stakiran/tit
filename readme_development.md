@@ -1,10 +1,10 @@
 # README for development
 
-## requirements
+## 要件
 - Windows 10+
 - Python 3.6+
 
-## build
+## ビルド
 readme.md をつくる:
 
 ```
@@ -19,16 +19,16 @@ $ python build.py
 <readme_footer.md の内容>
 ```
 
-## running
+## 運用
 
-### add new article
+### 記事を追加する
 n.bat を実行する。
 
 ファイル名を入力すると、現在日付ベースで `yyyy/mm/(YourFileName).md` が作成され、オープンされる。
 
 オープンは「md ファイルに関連付けられたアプリ」で開く。
 
-### build and commit and upload
+### ビルド(書いた記事の目次化)、アップロード
 b.bat を実行する。
 
 build.py が走った後、commit と push も走る（コミットメッセージは都度入力だが適当で良い）。
@@ -39,15 +39,12 @@ build.py が走った後、commit と push も走る（コミットメッセー�
   - [GitHub - stakiran/gaas_for_windows: GitHub As A Storage for Windows](https://github.com/stakiran/gaas_for_windows)
     - [upload.bat](https://github.com/stakiran/gaas_for_windows/blob/master/upload.bat)
 
-## faq
+## FAQ
 
-### q: what is inbox?
+### q: インボックス(inbox)とは？
 インボックスとは「気になることなどをとりあえず置いておく場所」。未処理を溜めるエリア。
 
 すぐに n.bat でファイル名が思い浮かばない場合は、inbox.md に溜める。
 
-### q: why write '.md' extension every time?
+### q: なぜ b.bat で毎回 `.md` 拡張子を入力させる？
 手間を考えれば .md は自動入力させるのが良いが、私の癖でファイル名につい .md と書いてしまう（結果 .md.md になってしまう :smirk:）ので、あえて自動入力させてない。
-
-### q: why datetime yyyy/mm only on creating? is there more detail datetime?
-作成日時情報が多いと邪魔なのと、ブレスト的なネタ置き場を想定してることもあって厳密な投稿日時は別に重要じゃない（あといざとなればバージョン履歴から追える）のでやめた。
