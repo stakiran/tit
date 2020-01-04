@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2020/01/04 | [ひとりで生きていくのは無理ゲーなのか？](2020/01/04_is_solo_living_muri_game.md) |
 | 2020/01/03 | [出版業界(web小説)を面白くするには](2020/01/03_how_to_more_interest_book_web_novel_world.md) |
 | 2020/01/03 | [幸福と充実](2020/01/03_happiness_and_satisfaction.md) |
 | 2019/12/27 | [LDD ライト・デジタル・デトックス](2019/12/27_ldd_light_digital_detox.md) |
