@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2020/01/07 | [放牧リストを仕組みで実現してみる](2020/01/07_list_houboku.md) |
 | 2020/01/04 | [ひとりで生きていくのは無理ゲーなのか？](2020/01/04_is_solo_living_muri_game.md) |
 | 2020/01/03 | [出版業界(web小説)を面白くするには](2020/01/03_how_to_more_interest_book_web_novel_world.md) |
 | 2020/01/03 | [幸福と充実](2020/01/03_happiness_and_satisfaction.md) |
