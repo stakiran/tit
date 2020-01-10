@@ -22,6 +22,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2020/01/10 | [ポメラでデジタルにバレットジャーナルできないか](2020/01/10_bullet_journal_with_pomera.md) |
 | 2020/01/08 | [ぼくがかんがえたさいきょうのたすくかんり](2020/01/08_my_strongest_task_management.md) |
 | 2020/01/07 | [放牧リストを仕組みで実現してみる](2020/01/07_list_houboku.md) |
 | 2020/01/04 | [ひとりで生きていくのは無理ゲーなのか？](2020/01/04_is_solo_living_muri_game.md) |
