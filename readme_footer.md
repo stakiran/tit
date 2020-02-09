@@ -1,5 +1,5 @@
 ## License
-- ソースコードは [MIT](LICENSE)
+- ソースコードは [MIT](LICENSE.md)
 
 ## Author
 [stakiran](https://github.com/stakiran)
