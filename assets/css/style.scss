@@ -9,7 +9,8 @@
 }
 
 /* For the link string in H1.
-   The default link color is not too readable. */
+   The default link color is not too readable.
+   So, comply the color of this theme, cayman, white. */
 h1 > a:active, h1 > a:visited, h1 > a:link {
-  color: #000000;
+  color: #ffffff;
 }
