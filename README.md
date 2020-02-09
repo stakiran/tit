@@ -21,6 +21,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2020/02/09 | [ダブルウォンツリスト](2020/02/09_double_wants_list.md) |
 | 2020/01/26 | [ミニマリスト限定マンション](2020/01/26_minimalist_apartment.md) |
 | 2020/01/10 | [ポメラでデジタルにバレットジャーナルできないか](2020/01/10_bullet_journal_with_pomera.md) |
 | 2020/01/08 | [ぼくがかんがえたさいきょうのたすくかんり](2020/01/08_my_strongest_task_management.md) |
