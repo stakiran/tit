@@ -17,3 +17,18 @@ twitterについて
 ### まとめ
 ↑ こんな感じにズームで強調するの、どう？見やすい？
 
+名前欲しい
+
+```
+zoom
+pickup
+section
+head heading h
+icon
+select
+position
+current
+mark
+```
+
+……思い浮かばん
