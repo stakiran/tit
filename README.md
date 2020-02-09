@@ -8,7 +8,7 @@ Today I Thought.
   - ちなみに日本語検索は [構文的な単語一致](https://qiita.com/sta/items/1023ef3cf1cec7b56689) なのであまり役に立たない……
 
 ## この tit について
-- 筆者の独断と偏見、狭い観測範囲と経験則に基づいて書いてることが多い（考えたことを言語化したいのが第一欲求）
+- 筆者の独断と偏見、狭い観測範囲と経験則に基づいて書いてることが多い
 - ブレストや殴り書きレベルの散文が多い（結論が出ていないこともある）
 - 内容は予告なく追加・更新・削除する
 - 絵文字の意味
@@ -80,10 +80,11 @@ Today I Thought.
 | 2019/11/24 | [巨人の肩に乗る、巨人のすねをかじる、etc](2019/11/24_kyozin_kata_shoulder_etc.md) |
 | 2019/11/24 | [エンジニアズマンション ← こういうの欲しいなぁ……](2019/11/24_engineers_apartment.md) |
 | 2019/11/24 | [備忘するということ](2019/11/24_bibouroku_note_memo.md) |
+| LICENSE.md | [MIT License](LICENSE.md) |
 | inbox.md | [In-box](inbox.md) |
 
 ## License
-- ソースコードは [MIT](LICENSE)
+- ソースコードは [MIT](LICENSE.md)
 
 ## Author
 [stakiran](https://github.com/stakiran)
