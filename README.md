@@ -80,11 +80,10 @@ Today I Thought.
 | 2019/11/24 | [巨人の肩に乗る、巨人のすねをかじる、etc](2019/11/24_kyozin_kata_shoulder_etc.md) |
 | 2019/11/24 | [エンジニアズマンション ← こういうの欲しいなぁ……](2019/11/24_engineers_apartment.md) |
 | 2019/11/24 | [備忘するということ](2019/11/24_bibouroku_note_memo.md) |
-| LICENSE.md | [MIT License](LICENSE.md) |
 | inbox.md | [In-box](inbox.md) |
 
 ## License
-- ソースコードは [MIT](LICENSE.md)
+- ソースコードは [MIT](LICENSE)
 
 ## Author
 [stakiran](https://github.com/stakiran)
