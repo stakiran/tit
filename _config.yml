@@ -3,7 +3,7 @@ url_full: https://stakiran.github.io/tit/
 # This plugin's completion like this:
 #
 #   https://stakiran.github.io/tit/tit/2020/01/26_minimalist_apartment.html
-#                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 # So, i use not an url but domain without / suffix.
 url: https://stakiran.github.io
 lang: ja-JP
