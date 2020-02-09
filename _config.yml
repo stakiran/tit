@@ -4,3 +4,4 @@ title: stakiran's tit
 theme: jekyll-theme-cayman
 plugins:
   - jemoji
+  - jekyll-seo-tag
