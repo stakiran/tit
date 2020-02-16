@@ -23,6 +23,7 @@ Today I Thought.
 | ---- | ----- |
 | 2020/02/16 | [かんばん式のタスク管理を使い始める前にやるべきこと](2020/02/16_what_you_have_to_do_before_use_kanban_tasktool.md) |
 | 2020/02/16 | [ガントチャートの諸悪の根源](2020/02/16_root_of_evil_of_ganttchart.md) |
+| 2020/02/16 | [備忘人というキャラ ← これでいけません？](2020/02/16_memon_bibouzin.md) |
 | 2020/02/16 | [コンディショナルリマインダー](2020/02/16_conditional_reminder.md) |
 | 2020/02/16 | [リモート知的生産飲み会(ブレスト)](2020/02/16_brast_of_remote_knowledge_worker_nomikai.md) |
 | 2020/02/09 | [挙動の移植(ブラックボックス移植)](2020/02/09_porting_of_behavior__blackbox_porting.md) |
