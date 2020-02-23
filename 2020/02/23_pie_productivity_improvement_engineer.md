@@ -2,7 +2,7 @@
 inspired by
 
 - SRE
-- [生産性向上エンジニア - サイボウズ 採用情報(https://cybozu.co.jp/company/job/recruitment/list/pr_engineer.html)
+- [生産性向上エンジニア - サイボウズ 採用情報](https://cybozu.co.jp/company/job/recruitment/list/pr_engineer.html)
 
 生産性改善エンジニアとは
 
