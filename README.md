@@ -21,6 +21,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2020/02/23 | [そろそろ VAAK できても良いと思う](2020/02/23_vaak_video_as_a_knowledge.md) |
 | 2020/02/16 | [かんばん式のタスク管理を使い始める前にやるべきこと](2020/02/16_what_you_have_to_do_before_use_kanban_tasktool.md) |
 | 2020/02/16 | [ガントチャートの諸悪の根源](2020/02/16_root_of_evil_of_ganttchart.md) |
 | 2020/02/16 | [備忘人というキャラ ← これでいけません？](2020/02/16_memon_bibouzin.md) |
