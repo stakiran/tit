@@ -21,6 +21,7 @@ Today I Thought.
 
 | Date | Title |
 | ---- | ----- |
+| 2020/02/27 | [ベストな支出管理方法を考える](2020/02/27_what_is_the_best_sisyutu_kanri.md) |
 | 2020/02/23 | [そろそろ VAAK できても良いと思う](2020/02/23_vaak_video_as_a_knowledge.md) |
 | 2020/02/23 | [生産性改善エンジニア](2020/02/23_pie_productivity_improvement_engineer.md) |
 | 2020/02/16 | [かんばん式のタスク管理を使い始める前にやるべきこと](2020/02/16_what_you_have_to_do_before_use_kanban_tasktool.md) |
